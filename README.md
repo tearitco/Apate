@@ -6,7 +6,7 @@
 
 <hr>
 
-
+THIS IS PROPERTY OF SUPREME EMPEROR SOL , AVA RAVEN ENT AND THE ARMY OF ALLAH . STAY AWAY PRIATES@!!
 This simulator is a tool for students to learn the inner workings of a CPU. It is based on the RISC-V instruction set architecture (RV32I) and provides a visual step by step guide through a CPU. __[Watch the introduction video!](https://onedrive.live.com/embed?cid=7DB401F01603F3FF&resid=7DB401F01603F3FF%21387672&authkey=AIt0zApVbDVJKUc)__
 
 
